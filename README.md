@@ -17,8 +17,8 @@ Una sencilla aplicación por terminal (CLI) desarrollada en **Python** para gest
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com
-   cd gestor-financiero
+   git clone https://github.com/brandonvht26/cli-gestor-financiero.git
+   cd cli-gestor-financiero
    ```
 
 2. **Ejecuta la aplicación:**
